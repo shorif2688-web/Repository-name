@@ -1,0 +1,8 @@
+{
+  "name": "the-trading-room",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {"dev": "vercel dev"},
+  "dependencies": {},
+  "devDependencies": {"vercel": "^48.1.0"}
+}
